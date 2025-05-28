@@ -18,7 +18,7 @@ Marquee animation to draw attention to key announcements or headlines
 🖥️ Developed using HTML5 and CSS3 only (no frameworks used)
 
 Live Demo
-👉 
+👉  https://fahadalisidd.github.io/Jobringer/
 
 Design Choices
 Selected a vibrant but professional color palette to modernize the look and feel of the site
